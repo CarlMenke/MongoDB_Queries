@@ -1,0 +1,23 @@
+{
+  "name": "mongodb_queries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlMenke/MongoDB_Queries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlMenke/MongoDB_Queries/issues"
+  },
+  "homepage": "https://github.com/CarlMenke/MongoDB_Queries#readme",
+  "dependencies": {
+    "mongoose": "^6.5.4"
+  }
+}
