@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/CarlMenke/MongoDB_Queries#readme",
   "dependencies": {
-    "mongoose": "^6.5.4"
+    "mongoose": "^6.5.5"
   }
 }
